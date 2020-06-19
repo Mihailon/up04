@@ -1,0 +1,29 @@
+C:\Users\mamok\source\repos\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\mamok\source\repos\Authorization\bin\Debug\Authorization.exe
+C:\Users\mamok\source\repos\Authorization\bin\Debug\Authorization.pdb
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization.csprojAssemblyReference.cache
+C:\Users\mamok\source\repos\Authorization\obj\Debug\MainWindow.g.cs
+C:\Users\mamok\source\repos\Authorization\obj\Debug\App.g.cs
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization_MarkupCompile.cache
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization_MarkupCompile.lref
+C:\Users\mamok\source\repos\Authorization\obj\Debug\MainWindow.baml
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization.g.resources
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization.exe
+C:\Users\mamok\source\repos\Authorization\obj\Debug\Authorization.pdb
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\bin\Debug\Authorization.exe
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\bin\Debug\Authorization.pdb
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization.csprojAssemblyReference.cache
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\MainWindow.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\App.g.cs
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization_MarkupCompile.cache
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization_MarkupCompile.lref
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\MainWindow.baml
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization.g.resources
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization.exe
+C:\Users\mamok\OneDrive\Рабочий стол\Authorization\obj\Debug\Authorization.pdb
